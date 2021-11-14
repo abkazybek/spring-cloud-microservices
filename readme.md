@@ -156,7 +156,7 @@ c) Launch Application.java in  the following sequence:
 
 
     {
-        "name" : "Pavel",
+        "name" : "Kazybek",
         "email" : "example@mail.do",
         "phone" : "+123456789",
         "bills" : [ 1,3,5 ]
